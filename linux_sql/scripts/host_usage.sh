@@ -28,23 +28,18 @@ echo "Host Id: $host_id"
 
 # Check if the variable is empty
 if [ -z "$host_id" ]; then
-    echo "host_id  Variable is empty"
-else
-    # Check if the variable contains only digits (integer)
-    if [[ "$host_id" =~ ^[0-9]+$ ]]; then
-        echo "Host-Id is: $host_id"
+    echo "host_id Variable is empty"
+    exit 1
+fi
 
-        export PGPASSWORD=$psql_password
+  export PGPASSWORD=$psql_passworda
         insert_stmt="INSERT INTO host_usage (timestamp, host_id, memory_free, cpu_idle, cpu_kernel, disk_io, disk_available) VALUES('$timestamp', 1, $memory_free, $cpu_idle,$cpu_kernel, $disk_io, $disk_available);"
 
         echo $insert_stmt
 
         psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
 
-    else
-        echo "Host-Id  does not contain an integer"
-    fi
-fi
+	echo "Record Inserted Successfully at $timestamp"
 
 exit $?
 
