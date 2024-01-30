@@ -43,9 +43,36 @@ This script collects the host hardware info and inserts it into the host_info ta
 ### host_usage.sh
 This script collects the current host usage (CPU and Memory) and inserts into the host_usage table in database. It will be triggered by cron at a regular interval, such as once per minute.We need to provide host, port, db_name, username and password as arguments when executing the command.<br></br>
 ## Database Modelling
- In Progress<br></br>
+### host_info Table
+| Column Name | Data Type | Constraint |
+|-------------|-----------|------------|
+|id|SERIAL|Primary Key|
+|hostname|VARCHAR|NOT NULL, UNIQUE|
+|cpu_number|INT2|NOT NULL|
+|cpu_architecture|VARCHAR|NOT NULL|
+|cpu_model|VARCHAR|NOT NULL|
+|cpu_mhz|FLOAT8|NOT NULL|
+|l2_cache|INT4|NOT NULL|
+|timestamp|TIMESTAMP|NULL|
+|total_mem|INT4|NULL|
+### host_usage Table
+|Column Name|Data Type|Constraint|
+|-----------|----------|--------|
+|timestamp|TIMESTAMP|NOT NULL|
+|host_id|SERIAL|FOREIGN KEY|
+|memory_free|INT4|NOT NULL|
+|cpu_idle|INT2|NOT NULL|
+|cpu_kernel|INT2|NOT NULL|
+|disk_io|INT4|NOT NULL|
+|disk_availaible|INT4|NOT NULL|
+
 ## Test
- In Progress<br></br>
+Testing was performed for this project by first inserting sample queries into the database to test the schema.
+Once the schema proved to support test queries, the tables were cleared, and the host_info.sh script was run.
+Updates to the table were checked by running SELECT * FROM HOST_INFO;. This command was successful as it
+displayed the current host's hardware specifications. A crontab job was created and ran periodically to test
+if the host usage data was inserted into the host_usage table. This also proved to be successful as
+SELECT * FROM HOST_USAGE; returned updated usage data with recent time stamps.<br></br>
 ## Deployment
  In Progress
 
