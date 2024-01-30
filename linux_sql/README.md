@@ -34,7 +34,14 @@ The Linux Resource Cluster Monitoring Agent program was established by container
 ## Architecture
  In Progress<br></br>
 ## Scripts
- In Progress<br></br>
+### psql_docker.sh
+This script is designed to manage the lifecycle of a PostgreSQL Docker container, allowing you to create, start, or stop the container based on the provided command-line arguments. It uses Docker volumes to persist data between container instances.<br></br>
+### ddl.sql
+This script is used to create the schema of the host_info and host_usage tables to be used in application . It also allows user to store data collected from host_info.sh and host_usage.sh <br></br>
+### host_info.sh
+This script collects the host hardware info and inserts it into the host_info table in database. It will be run only once, at install time. We need to provide the host, port, database name, username, and password as parameters when executing the command.<br></br>
+### host_usage.sh
+This script collects the current host usage (CPU and Memory) and inserts into the host_usage table in database. It will be triggered by cron at a regular interval, such as once per minute.We need to provide host, port, db_name, username and password as arguments when executing the command.<br></br>
 ## Database Modelling
  In Progress<br></br>
 ## Test
