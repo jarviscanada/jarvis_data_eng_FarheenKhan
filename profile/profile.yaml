@@ -9,24 +9,31 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_FarheenKha
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary: I'm an IT professional with around two years of experience as Business System Analyst, specializing in SQL, Power BI, and Python. I am keen to transition seamlessly into roles that capitalize on my analytical and technical acumen for organizational success. My background encompasses Waterfall, Agile, and Scrum methodologies, supported by proficiency in Python, SQL, Excel, Power BI, and various project management tools. Recognized for strong organizational, communication, and collaboration skills, I am well-prepared to contribute to achieving project success and process excellence. As a proficient practitioner of Agile/Scrum methodologies with technical mastery in Python, Power BI, and SQL, my objective is to play a pivotal role in bridging the gap between business requirements and technical solutions.
 
 skills:
   # Please include 
   #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
-    - Donec
-    - Donec
-    - Donec
-    - fermentum
-    - Donec
+    - Project Management (Agile/Scrum, Jira, Confluence, Notion)
+    - Team Collaboration (Zoom, Slack, Microsoft Teams)
+    - Requirement Analysis
+    - Communication Skills
+    - Interpersonal Skills
+    - Time Management
+    - Problem Solving
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
-    - RDBMS/SQL
-    - Data Modeling/Mapping
-    - Data Analytics
+    - Data Analysis and Visualization (Python, SQL, Excel, Power BI)
+    - Database Management (PostgreSQL)
+    - Version Control (Git, GitHub)
+    - Business Process Modeling (Draw.io, Visio)
+    - Integrated Development Environments (IntelliJ IDEA)
+    - Microsoft Office Suite
+    - Software Testing (UAT)
+    - Programming and Markup languages (C, C++, C#, Python, Html, CSS, Markdown, YAML)
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -35,7 +42,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: In my role as a Business Systems Analyst, I initiated the Linux Cluster Monitoring App project by orchestrating the deployment of CentOS-based virtual machines on the Google Cloud Platform. During the project's inception, I actively engaged in elicitation sessions with stakeholders, ensuring a comprehensive understanding of their needs. This facilitated the creation of the Business Requirements Document (BRD), guiding subsequent stages of the project. Utilizing Docker, I efficiently managed and deployed a PostgreSQL database, optimizing resource utilization as per the requirements outlined in the System Requirements Document (SRD). In response to stakeholder input and thorough requirement analysis, I designed and implemented a relational database capable of storing detailed hardware specifications and real-time usage metrics. Automation was a key focus, streamlining the data collection process from each Linux node to meet project requirements. Rigorous testing of both the application and associated scripts, aligned with specified requirements, was conducted to ensure robust functionality. Additionally, I enhanced team communication and comprehension by creating a detailed cluster architecture diagram using draw.io. Throughout the project, the BRD and SRD played a crucial role in guiding decisions and ensuring alignment with stakeholder expectations.
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
