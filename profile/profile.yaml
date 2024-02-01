@@ -69,12 +69,12 @@ highlighted_projects:
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
+  - title: "Business System Analyst"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "2024-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: In a collaborative professional capacity, I worked closely with stakeholders, including business clients, managers, and IT teams, to extract and refine detailed business requirements. My responsibilities encompassed the creation and meticulous maintenance of comprehensive documentation, spanning business requirements, system specifications, process flows, and user manuals. Additionally, I played a key role in the strategic design of application and data system solutions, addressing specific business needs such as those encountered in projects like the Linux Cluster Monitoring App and PostgreSQL database. Leveraging my scripting skills and proficiency in Integrated Development Environment (IDE) software, I efficiently developed, validated, and automated scripts, contributing to streamlined processes and successful project outcomes.
   - title: "Tutor"
     company: "XYZ Company"
     duration: "2019"

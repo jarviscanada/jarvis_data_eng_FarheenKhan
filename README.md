@@ -28,7 +28,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_FarheenKha
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Business System Analyst, Jarvis (2024-present)**: In a collaborative professional capacity, I worked closely with stakeholders, including business clients, managers, and IT teams, to extract and refine detailed business requirements. My responsibilities encompassed the creation and meticulous maintenance of comprehensive documentation, spanning business requirements, system specifications, process flows, and user manuals. Additionally, I played a key role in the strategic design of application and data system solutions, addressing specific business needs such as those encountered in projects like the Linux Cluster Monitoring App and PostgreSQL database. Leveraging my scripting skills and proficiency in Integrated Development Environment (IDE) software, I efficiently developed, validated, and automated scripts, contributing to streamlined processes and successful project outcomes.
 
 **Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
 

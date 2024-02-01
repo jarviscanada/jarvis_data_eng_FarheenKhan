@@ -75,9 +75,9 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "description": "In a collaborative professional capacity, I worked closely with stakeholders, including business clients, managers, and IT teams, to extract and refine detailed business requirements. My responsibilities encompassed the creation and meticulous maintenance of comprehensive documentation, spanning business requirements, system specifications, process flows, and user manuals. Additionally, I played a key role in the strategic design of application and data system solutions, addressing specific business needs such as those encountered in projects like the Linux Cluster Monitoring App and PostgreSQL database. Leveraging my scripting skills and proficiency in Integrated Development Environment (IDE) software, I efficiently developed, validated, and automated scripts, contributing to streamlined processes and successful project outcomes.",
+      "duration": "2024-present",
+      "title": "Business System Analyst"
     },
     {
       "company": "XYZ Company",
