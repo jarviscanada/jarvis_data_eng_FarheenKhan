@@ -2,7 +2,7 @@
   "education": [
     {
       "awards_achievements": [
-        "Earned a $3000 scholarship by achieving the 3rd position in a national-level creative writing competition",
+        "Earned a $3000 scholarship for excellence in entrance examination for masters program",
         "Served as the President of the Computer Science Student Association, fostering a collaborative environment among peers"
       ],
       "degree": "Masters of Computer Science",
@@ -54,21 +54,22 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Microsoft Power BI Desktop for Business Intelligence(2023)"
       ],
       "title": "Certificates"
     },
     {
       "bullets": [
-        "Winner"
+        "Secured 3rd rank in National level Creative writing Competition",
+        "Award of SAR 6,000 for excellence in APR (Annual performance report) Ministry of Education, Kingdom of Saudi Arabia (2019)"
       ],
       "title": "Awards"
     },
     {
       "bullets": [
-        "Basketball player; joined xyz club",
-        "Competitive gaming; compete for xyz",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Freelance Technical Writer",
+        "Volunteer ICNA Relief Canada",
+        "Events organizer Kashmiri Overseas Association of Canada"
       ],
       "title": "Activities/Hobbies"
     }

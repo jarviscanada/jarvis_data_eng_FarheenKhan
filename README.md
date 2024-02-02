@@ -30,21 +30,26 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_FarheenKha
 
 **Business System Analyst, Jarvis (2024-present)**: In a collaborative professional capacity, I worked closely with stakeholders, including business clients, managers, and IT teams, to extract and refine detailed business requirements. My responsibilities encompassed the creation and meticulous maintenance of comprehensive documentation, spanning business requirements, system specifications, process flows, and user manuals. Additionally, I played a key role in the strategic design of application and data system solutions, addressing specific business needs such as those encountered in projects like the Linux Cluster Monitoring App and PostgreSQL database. Leveraging my scripting skills and proficiency in Integrated Development Environment (IDE) software, I efficiently developed, validated, and automated scripts, contributing to streamlined processes and successful project outcomes.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Business Analyst, Imobisoft (2020-2022)**: In my multifaceted role, I collaborated with internal users for product maintenance and improvement. I worked closely with customers and stakeholders, translating business requirements into user stories. Proficient in research, writing, and editing, I simplify complex data processing systems to enhance audience understanding. I excel in completing project tasks within timelines, ensuring high-quality outcomes. Effective communication is a key strength, allowing me to articulate project expectations to various stakeholders. Throughout projects, I actively engage in planning, testing, delivery, and supervision, offering recommendations and installations. I contribute to software quality assurance standards and provide communication support during project deployment. With expertise in data analysis, business system analysis, and design, I convert requirements into detailed specifications. Proficient in Microsoft Excel and Access, I handle large datasets and utilize tools like Microsoft Power BI. My documentation skills include creating Use Case specifications, Business flow diagrams, and sequence diagrams using MS Visio.
+
+**IT Analyst, King Khalid University, Saudi Arabia (2019-2020)**: Proficiently handling administrative responsibilities, I excel in tasks such as creating impactful PowerPoint presentations, conducting data entry analysis, and crafting data stories with keen attention to detail. My role involves documenting technical requirements, optimizing content management, and actively supporting student recruitment processes. I specialize in gathering and analyzing student data, producing insightful reports, and designing visual aids using MS Excel. Additionally, I contribute to the creation of the Annual Performance Analysis report, gather user feedback, and maintain a comprehensive student database. Adept at providing technical training, I contribute to enhancing team capabilities.
+
+**Software Developer, SSM Dept. of Computer Science (2014-2015)**: Collaborating closely with the development manager, I contribute to all aspects of software design and coding, attending development meetings and continuously improving coding skills. Committed to best practices, I write and maintain code, address minor bug fixes, and monitor internal system performance. Responsive to development team requests, I gather consumer feedback to enhance program functionality. With autonomy, I write technical documents and reports and lead development tests and User Acceptance Testing (UAT).
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+**University of Kashmir (2011-2014)**, Masters of Computer Science, Computer Science
+- Earned a $3000 scholarship for excellence in entrance examination for masters program
+- Served as the President of the Computer Science Student Association, fostering a collaborative environment among peers
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**University of Kashmir (2008-2011)**, Bachelors of Computer Science, Computer Science
+- Received recognition for community service contributions through volunteering in local coding workshops for high school students
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player; joined xyz club
-- Competitive gaming; compete for xyz
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Microsoft Power BI Desktop for Business Intelligence(2023)
+- Secured 3rd rank in National level Creative writing Competition
+- Award of SAR 6,000 for excellence in APR (Annual performance report) Ministry of Education, Kingdom of Saudi Arabia (2019)
+- Freelance Technical Writer
+- Volunteer ICNA Relief Canada
+- Events organizer Kashmiri Overseas Association of Canada
