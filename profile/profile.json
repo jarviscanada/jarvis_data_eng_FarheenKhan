@@ -11,9 +11,7 @@
       "school_name": "University of Kashmir"
     },
     {
-      "awards_achievements": [
-        "Received recognition for community service contributions through volunteering in local coding workshops for high school students"
-      ],
+      "awards_achievements": null,
       "degree": "Bachelors of Computer Science",
       "department": "Computer Science",
       "duration": "2008-2011",
@@ -27,7 +25,15 @@
       "name": "Department of Health and Social Care (Food Bank Service Portal)-Birmingham City Council"
     },
     {
-      "description": "As a Business Analyst, I played a key role in various aspects. I gathered requirements by working with stakeholders and end-users, ensuring a clear understanding for efficient aid distribution. I documented business requirements and user stories, guided user training sessions, and provided support to the testing team. Collaborated with stakeholders and updated them on progress and gathered feedback from end-users. I also contributed to data analysis, ensuring resource efficiency and analyzing trends in aid distribution. I participated in quality assurance activities and Identify areas for improvement and provide feedback to enhance the application's functionality. Work closely with the development team to clarify requirements and address any issues that may arise during the implementation phase. I continuously sought feedback from end-users and stakeholders to continuously improve the application. And also ensured that the application complies with relevant policies and regulations governing aid distribution",
+      "description": "As a Business Analyst, I played a key role in various aspects. I gathered requirements by working with stakeholders and end-users, ensuring a clear understanding for efficient aid distribution. I documented business requirements and user stories, guided user training sessions, and provided support to the testing team. Collaborated with stakeholders and updated them on progress and gathered feedback from end-users. I also contributed to data analysis, ensuring resource efficiency and analyzing trends in aid distribution. I participated in quality assurance activities and Identify areas for improvement and provide feedback to enhance the application's functionality. Work closely with the development team to clarify requirements and address any issues that may arise during the implementation phase. I continuously sought feedback from end-users and stakeholders to continuously improve the application. And also ensured that the application complies with relevant policies and regulations governing aid distribution.",
+      "name": "Responsiblities Undertaken"
+    },
+    {
+      "description": "The goal of the project was to improve the customer experience, through call center service. The service acted as a pivotal medium, in order to support the customers, where they can reach to the representatives, who in turn can access their details using the customer phone number.The call center representatives will have the capability to view the status of customers, distinguishing between active and terminated accounts, as well as details about the services currently utilized by each customer. All customer-related information will be stored in a comprehensive database. This database will be utilized whenever a customer calls for support, allowing representatives to access all the relevant information associated with that particular customer. Additionally, the phone calls between customers and representatives will be recorded by the system. This will be done for quality assurance and training purposes. All these interactions will be stored in a dedicated database, in compliance with privacy regulations.",
+      "name": "Customer care call center portal"
+    },
+    {
+      "description": "As a Business Analyst on the Customer Call Centre Portal project, I played a key role in gathering and documenting business requirements. Through collaborative sessions with stakeholders, I ensured a comprehensive understanding of user needs, which I translated into detailed use cases outlining various portal interactions. I also focused on understanding and documenting data needs for the call center portal. I'd work with stakeholders to figure out what information is required, create diagrams to show how data flows, and assist in designing the database. I'd also make sure the data meets quality standards, collaborate with IT teams, and ensure compliance with privacy rules.In essence, I played a part in making sure the data side of the call center portal works smoothly and supports the project goals.In the quality assurance phase, Collaborate with the testing team to develop comprehensive test cases covering various scenarios to ensurethe call center portal functions as intended. Assist in facilitating user acceptance testing, working with end-users to validate that the system meets their requirements and expectations.Thorough documentation of processes and user interactions was a constant focus, providing valuable references for developers and testers. Additionally, I assisted in developing training materials, ensuring that call center representatives were well-prepared to utilize the portal effectively.",
       "name": "Responsiblities Undertaken"
     }
   ],
@@ -42,6 +48,7 @@
   "others": [
     {
       "bullets": [
+        "ECBA Certified",
         "Microsoft Power BI Desktop for Business Intelligence(2023)"
       ],
       "title": "Certificates"
