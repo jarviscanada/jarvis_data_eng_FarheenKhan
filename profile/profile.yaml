@@ -55,7 +55,7 @@ jarvis_projects:
 # Please focus on transferable skills, such as soft skills and data related skills
 highlighted_projects:
     #project name
-  - name: "Department of Health and Social Care (Food Bank Service Portal)-Birmingham City Council"
+  - name: "1) Department of Health and Social Care (Food Bank Service Portal)-Birmingham City Council"
     #URL is optional
     #git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
@@ -65,7 +65,7 @@ highlighted_projects:
     #git_url:
     description: As a Business Analyst, I played a key role in various aspects. I gathered requirements by working with stakeholders and end-users, ensuring a clear understanding for efficient aid distribution. I documented business requirements and user stories, guided user training sessions, and provided support to the testing team. Collaborated with stakeholders and updated them on progress and gathered feedback from end-users. I also contributed to data analysis, ensuring resource efficiency and analyzing trends in aid distribution. I participated in quality assurance activities and Identify areas for improvement and provide feedback to enhance the application's functionality. Work closely with the development team to clarify requirements and address any issues that may arise during the implementation phase. I continuously sought feedback from end-users and stakeholders to continuously improve the application. And also ensured that the application complies with relevant policies and regulations governing aid distribution.
   
-  - name: "Customer care call center portal"
+  - name: "2) Customer care call center portal"
     #git_url:
     description: The goal of the project was to improve the customer experience, through call center service. The service acted as a pivotal medium, in order to support the customers, where they can reach to the representatives, who in turn can access their details using the customer phone number.The call center representatives will have the capability to view the status of customers, distinguishing between active and terminated accounts, as well as details about the services currently utilized by each customer. All customer-related information will be stored in a comprehensive database. This database will be utilized whenever a customer calls for support, allowing representatives to access all the relevant information associated with that particular customer. Additionally, the phone calls between customers and representatives will be recorded by the system. This will be done for quality assurance and training purposes. All these interactions will be stored in a dedicated database, in compliance with privacy regulations.
 
@@ -83,7 +83,7 @@ professional_experience:
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
     description: In a collaborative professional capacity, I worked closely with stakeholders,to extract and refine detailed business requirements. My responsibilities encompassed the creation and meticulous maintenance of comprehensive documentation. Additionally,I worked on internal training projects, where I assisted in the planning and development of the projects. I contributed by gathering and analyzing business requirements, collaborating with the team to design the system solutions, and supporting the implementation process. Moreover, I played a part in ensuring that the application met specific business needs and objectives. 
-  - title: "Business Analyst"
+  - title: "Business System Analyst"
     company: "Imobisoft"
     duration: "2020-2022"
     description: In my multifaceted role, I collaborated with internal users for product maintenance and improvement. I worked closely with customers and stakeholders, translating business requirements into user stories. Proficient in research, writing, and editing, I simplify complex data processing systems to enhance audience understanding. I excel in completing project tasks within timelines, ensuring high-quality outcomes. Effective communication is a key strength, allowing me to articulate project expectations to various stakeholders. Throughout projects, I actively engage in planning, testing, delivery, and supervision, offering recommendations and installations. I contribute to software quality assurance standards and provide communication support during project deployment. With expertise in data analysis, business system analysis, and design, I convert requirements into detailed specifications. Proficient in Microsoft Excel and Access, I handle large datasets and utilize tools like Microsoft Power BI. My documentation skills include creating Use Case specifications, Business flow diagrams, and sequence diagrams using MS Visio.
@@ -101,7 +101,7 @@ education:
   - school_name: "University of Kashmir"
     duration: "2011-2014"
     degree: "Masters of Computer Science"
-    department: "Computer Science"
+    department: "Department of Computer Science"
     # optional
     awards_achievements: 
       - "Earned a $3000 scholarship for excellence in entrance examination for masters program"
@@ -110,7 +110,7 @@ education:
   - school_name: "University of Kashmir"
     duration: "2008-2011"
     degree: "Bachelors of Computer Science"
-    department: "Computer Science"
+    department: "Department of Computer science" 
     awards_achievements: 
      # - "Received recognition for community service contributions through volunteering in local coding workshops for high school students" 
 #Optional section
